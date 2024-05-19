@@ -1,0 +1,5 @@
+User1               449
+sf                  345
+Hello               225
+Play_Nick           100
+playerA             100
